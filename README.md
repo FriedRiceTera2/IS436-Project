@@ -7,8 +7,8 @@ User guide for the [Hopkins Hospital Patient Records System](https://swe.umbc.ed
   * [View Electronic Health Records](https://github.com/FriedRiceTera2/IS436-Project/edit/main/README.md#view-electronic-health-records)
   * [Schedule An Appointment](https://github.com/FriedRiceTera2/IS436-Project/edit/main/README.md#schedule-an-appointment)
 * Doctor Services
-  * Doctor Login
-  * Resource Allocation  
+  * [Doctor Login](https://swe.umbc.edu/~ll41010/IS436/Project/DoctorLogin.php)
+  * Resource Allocation
   * Electronic Health Records 
 ## Patient Services
 Patients at Hopkins Hospital enjoy full online access to a dashboard of their most vital medical information, all of their medical records, and the ability to schedule an appointment, all on the go with the [Patient Records System.](https://swe.umbc.edu/~ll41010/IS436/Project/Homepage.html)
