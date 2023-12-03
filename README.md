@@ -1,13 +1,24 @@
 # Hopkins Hospital Patient Records System
+User guide for the [Hopkins Hospital Patient Records System](https://swe.umbc.edu/~ll41010/IS436/Project/Homepage.html)
 ## Table of Contents
-* Patient Services
-  * Patient Login
-  * Patient Dashboard
-  * View Electronic Health Records
-  * Schedule An Appointment
+* [Patient Services](https://github.com/FriedRiceTera2/IS436-Project/blob/main/README.md#patient-services)
+  * [Patient Login](https://github.com/FriedRiceTera2/IS436-Project/edit/main/README.md#patient-login)
+  * [Patient Dashboard](https://github.com/FriedRiceTera2/IS436-Project/edit/main/README.md#patient-dashboard)
+  * [View Electronic Health Records](https://github.com/FriedRiceTera2/IS436-Project/edit/main/README.md#view-electronic-health-records)
+  * [Schedule An Appointment](https://github.com/FriedRiceTera2/IS436-Project/edit/main/README.md#schedule-an-appointment)
 * Doctor Services
   * Doctor Login
   * Resource Allocation  
   * Electronic Health Records 
 ## Patient Services
-Patients at Hopkins Hospital enjoy full online access to a dashboard of their most vital medical information, all of their medical records, and the ability to schedule an appointment, all on the go with the Patient Records System. 
+Patients at Hopkins Hospital enjoy full online access to a dashboard of their most vital medical information, all of their medical records, and the ability to schedule an appointment, all on the go with the [Patient Records System.](https://swe.umbc.edu/~ll41010/IS436/Project/Homepage.html)
+### Patient Login
+Patients can [log in](https://swe.umbc.edu/~ll41010/IS436/Project/PatientLogin.html) to the Patient Records System using the username and password they were issued on their first visit to the hospital.
+
+Forgot your login information? [Contact our staff](https://swe.umbc.edu/~ll41010/IS436/Project/Contact.html) and they'd be happy to help you recover it.
+### Patient Dashboard
+With the [electronic patient dashboard](https://swe.umbc.edu/~ll41010/IS436/Project/patientdashboard.html), you can view your upcoming appointments, ongoing diagnoses and treatment plans, and insurance information at a glance.
+### View Electronic Health Records
+Your [electronic health records](https://swe.umbc.edu/~ll41010/IS436/Project/patientehr.html) put your medical information in your hands, allowing you to view detailed appointment history, past treatment plans, and past diagnoses, as well as request that your full records be sent to other care providers.
+### Schedule An Appointment
+The [online appointment scheduler](https://swe.umbc.edu/~ll41010/IS436/Project/makeappointment.html) allows you to schedule the date and time of your next appointment, as well as choose the doctor you'd like to see next.
