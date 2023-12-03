@@ -27,7 +27,7 @@ Doctor Services at Hopkins Hospital are designed to streamline the healthcare pr
 ## Doctor Login
 Physicians and healthcare providers can access the Doctor Services portal through their unique login credentials. This secure login ensures that only authorized personnel have access to sensitive patient information. [Login](https://swe.umbc.edu/~ll41010/IS436/Project/DoctorLogin.php)
 ## Resource Allocation
-The Resource Allocation feature allows doctors to manage and allocate resources effectively. This includes assigning Beds, operating rooms, and medical equipment based on the current patient load and the nature of medical services required. [Login](https://swe.umbc.edu/~ll41010/IS436/Project/doctordashboard.php)
+The [Resource Allocation](https://swe.umbc.edu/~ll41010/IS436/Project/doctordashboard.php) feature allows doctors to manage and allocate resources effectively. This includes assigning Beds, operating rooms, and medical equipment based on the current patient load and the nature of medical services required. 
 ## Electronic Health Records
 Doctors can access to a comprehensive [Electronic Health Records (EHR) system](https://swe.umbc.edu/~ll41010/IS436/Project/doctordashboard.php) which providing a detailed overview of each patient's medical history. 
 
