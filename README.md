@@ -25,7 +25,7 @@ The [online appointment scheduler](https://swe.umbc.edu/~ll41010/IS436/Project/m
 ## Doctor Sevices
 Doctor Services at Hopkins Hospital are designed to streamline the healthcare process, ensuring efficient and effective patient care. 
 ## Doctor Login
-Physicians and healthcare providers can access the Doctor Services portal through their unique login credentials. This secure login ensures that only authorized personnel have access to sensitive patient information. [Login](https://swe.umbc.edu/~ll41010/IS436/Project/DoctorLogin.php)
+Physicians and healthcare providers can access the Doctor Services portal through their unique login credentials. This secure [login](https://swe.umbc.edu/~ll41010/IS436/Project/DoctorLogin.php) ensures that only authorized personnel have access to sensitive patient information. 
 ## Resource Allocation
 The [Resource Allocation](https://swe.umbc.edu/~ll41010/IS436/Project/doctordashboard.php) feature allows doctors to manage and allocate resources effectively. This includes assigning Beds, operating rooms, and medical equipment based on the current patient load and the nature of medical services required. 
 ## Electronic Health Records
