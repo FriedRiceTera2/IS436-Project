@@ -7,7 +7,7 @@ User guide for the [Hopkins Hospital Patient Records System](https://swe.umbc.ed
   * [View Electronic Health Records](https://github.com/FriedRiceTera2/IS436-Project/edit/main/README.md#view-electronic-health-records)
   * [Schedule An Appointment](https://github.com/FriedRiceTera2/IS436-Project/edit/main/README.md#schedule-an-appointment)
 * Doctor Services
-  * [Doctor Login](https://swe.umbc.edu/~ll41010/IS436/Project/DoctorLogin.php)
+  * Doctor Login
   * Resource Allocation
   * Electronic Health Records 
 ## Patient Services
@@ -22,3 +22,8 @@ With the [electronic patient dashboard](https://swe.umbc.edu/~ll41010/IS436/Proj
 Your [electronic health records](https://swe.umbc.edu/~ll41010/IS436/Project/patientehr.html) put your medical information in your hands, allowing you to view detailed appointment history, past treatment plans, and past diagnoses, as well as request that your full records be sent to other care providers.
 ### Schedule An Appointment
 The [online appointment scheduler](https://swe.umbc.edu/~ll41010/IS436/Project/makeappointment.html) allows you to schedule the date and time of your next appointment, as well as choose the doctor you'd like to see next.
+## Doctor Sevices
+Doctor Services at Hopkins Hospital are designed to streamline the healthcare process, ensuring efficient and effective patient care. 
+## Doctor Login
+Physicians and healthcare providers can access the Doctor Services portal through their unique login credentials. This secure login ensures that only authorized personnel have access to sensitive patient information. [Login page](https://swe.umbc.edu/~ll41010/IS436/Project/DoctorLogin.php)
+
