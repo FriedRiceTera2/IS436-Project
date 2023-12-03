@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hopkins Medical System - Contact</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Hopkins Medical System</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="Homepage.html">Home</a></li>
+            <li><a href="AboutPage.html">About</a></li>
+            <li><a href="Contact.html">Contact</a></li>
+            <li><a href="PatientLogin.php">Patient Login</a></li>
+            <li><a href="DoctorLogin.php">Doctor Login</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h2>Contact Hopkins Medical System</h2>
+        
+        <h3>General Inquiries</h3>
+        <p>If you have any general inquiries about our services or the Medical System, please feel free to contact us using the form below:</p>
+        <form action="submit_contact_form.php" method="post">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Your Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <input type="submit" value="Submit">
+        </form>
+
+        <h3>Customer Support</h3>
+        <p>For customer support or assistance, you can reach out to our dedicated support team at support@medicalsystem.com or call us at (123) 456-7890.</p>
+
+        <h3>Visit Us</h3>
+        <p>Medical System Headquarters<br>
+            123 Health Street<br>
+            Cityville, Medicaland</p>
+
+    </section>
+  
+</body>
+</html>
